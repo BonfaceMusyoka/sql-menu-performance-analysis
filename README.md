@@ -85,9 +85,10 @@ ORDER BY num_dishes DESC;
 
 | File | Description |
 |------|-------------|
-| [`README.md`](README.md) | Project overview, business context, key findings, and example SQL queries |
-| [`queries.sql`](queries.sql) | Full SQL code used in the project, organized by objective with comments |
-| `images/` *(optional)* | Visualizations or charts (e.g., top ordered items, category breakdown) |
+| [`README.md`](README.md) | Project overview, business context, key findings, and SQL highlights |
+| [`queries.sql`](https://github.com/BonfaceMusyoka/sql-menu-performance-analysis/blob/main/queries.sql) | Full SQL code for all three objectives (menu, orders, customer behavior) |
+| [`Restaurant Orders MySQL.zip`](https://github.com/BonfaceMusyoka/sql-menu-performance-analysis/raw/main/Restaurant%2BOrders%2BMySQL.zip) | 📦 Downloadable dataset (ZIP format) |
+
 
 ## 📈 Business Recommendations
 
