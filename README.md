@@ -80,7 +80,13 @@ FROM menu_items
 GROUP BY category
 ORDER BY num_dishes DESC;
 ```
+## 📈 Dashboard Preview
 
+Visual snapshot created in Power BI using SQL-exported insights:
+
+![Restaurant Orders Dashboard](./restaurant-orders-dashboard.png)
+
+---
 ## 📂 Repository Contents
 
 | File | Description |
